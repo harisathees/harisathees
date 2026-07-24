@@ -116,13 +116,13 @@ const hari = {
 
   | Skill | Level | Proficiency |
   |:--|:--|:--|
-  | **React / JavaScript** | Advanced | `██████████████████░░` 90% |
-  | **Laravel / PHP** | Advanced | `█████████████████░░░` 85% |
-  | **HTML / CSS / Tailwind** | Advanced | `██████████████████░░` 92% |
-  | **Node.js / Express** | Intermediate | `███████████████░░░░░` 75% |
-  | **MySQL / MongoDB** | Intermediate | `██████████████░░░░░░` 72% |
-  | **TypeScript** | Intermediate | `█████████████░░░░░░░` 65% |
-  | **Python / Java** | Intermediate | `████████████░░░░░░░░` 60% |
+  | **React / JavaScript** | Intermediate | `███████████████░░░░░` 75% |
+  | **Laravel / PHP** | Intermediate | `██████████████░░░░░░` 70% |
+  | **HTML / CSS / Tailwind** | Advanced | `████████████████░░░░` 80% |
+  | **Node.js / Express** | Intermediate | `████████████░░░░░░░░` 60% |
+  | **MySQL / MongoDB** | Intermediate | `███████████░░░░░░░░░` 55% |
+  | **TypeScript** | Intermediate | `██████████░░░░░░░░░░` 50% |
+  | **Python / Java** | Beginner | `█████████░░░░░░░░░░░` 45% |
 
   <br />
 </details>
@@ -212,25 +212,6 @@ const hari = {
 
 <br />
 
-<details>
-  <summary><b>⚙️ &nbsp;How the snake animation works</b></summary>
-  <br />
-
-  The snake is regenerated automatically by
-  [`.github/workflows/snake.yml`](.github/workflows/snake.yml) every 12 hours:
-
-  1. The workflow reads my public contribution grid.
-  2. [`Platane/snk`](https://github.com/Platane/snk) renders it into animated SVG + GIF.
-  3. The output is force-pushed to the **`output`** branch.
-  4. This README loads it straight from `raw.githubusercontent.com`.
-
-  > **First-time setup:** after pushing, open the **Actions** tab and run
-  > *Generate Snake Animation* once manually — the `output` branch is created on
-  > that first run, and the images above go live immediately after.
-
-  <br />
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════════ -->
@@ -253,15 +234,6 @@ const hari = {
   <a href="https://github.com/harisathees" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Random dev quote"
-  />
 </div>
 
 <br />
